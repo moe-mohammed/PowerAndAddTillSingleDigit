@@ -1,0 +1,13 @@
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\bin\Debug\netcoreapp3.1\AddTillSingleDigit.exe
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\bin\Debug\netcoreapp3.1\AddTillSingleDigit.deps.json
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\bin\Debug\netcoreapp3.1\AddTillSingleDigit.runtimeconfig.json
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\bin\Debug\netcoreapp3.1\AddTillSingleDigit.runtimeconfig.dev.json
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\bin\Debug\netcoreapp3.1\AddTillSingleDigit.dll
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\bin\Debug\netcoreapp3.1\AddTillSingleDigit.pdb
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\obj\Debug\netcoreapp3.1\AddTillSingleDigit.csprojAssemblyReference.cache
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\obj\Debug\netcoreapp3.1\AddTillSingleDigit.AssemblyInfoInputs.cache
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\obj\Debug\netcoreapp3.1\AddTillSingleDigit.AssemblyInfo.cs
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\obj\Debug\netcoreapp3.1\AddTillSingleDigit.csproj.CoreCompileInputs.cache
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\obj\Debug\netcoreapp3.1\AddTillSingleDigit.dll
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\obj\Debug\netcoreapp3.1\AddTillSingleDigit.pdb
+C:\Users\Luminary\source\repos\AddTillSingleDigit\AddTillSingleDigit\obj\Debug\netcoreapp3.1\AddTillSingleDigit.genruntimeconfig.cache
